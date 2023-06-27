@@ -1,5 +1,4 @@
-package com.mark.helloworld.api
-import java.util.*;
+package com.mark.helloworld.api;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
